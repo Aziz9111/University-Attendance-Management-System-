@@ -1,0 +1,12 @@
+RUN BACKEND
+1- install nodeJs on your machine
+2- run in command line 'cd backend'
+3- run in command line 'nom i' to install requirements
+4- run 'nodemon app.js' to run backend server on localhost
+5- in you faced any issues run 'export NODE_OPTIONS=--openssl-legacy-provider' in the terminal
+
+RUN FRONTEND
+1- install nodeJs on your machine
+2- un in command line 'cd frontend'
+3- run in command line 'nom i' to install requirements
+4- run 'npm start' to run the frontend
